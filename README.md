@@ -8,7 +8,9 @@
 ---
 
 ## 🚀 설치 방법
-1. 크롬/엣지에서 [Tampermonkey 확장](https://www.tampermonkey.net/) 설치  
+1. 크롬 브라우저에서 [Tampermonkey 확장](https://www.tampermonkey.net/) 설치  
+   👉 **크롬 사용을 권장합니다. (엣지 등 다른 브라우저는 경우에 따라 파일을 직접 추가해야 할 수 있습니다.)**  
+
 2. 아래 링크 클릭 → Tampermonkey에서 **Install** 버튼 누르기  
 
 👉 [여기를 클릭해 설치하기](https://github.com/durumi922/JBU-AI-News-Autofill/raw/refs/heads/main/jbu-news-autofill.user.js)
