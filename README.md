@@ -15,6 +15,10 @@
 
 👉 [여기를 클릭해 설치하기](https://github.com/durumi922/JBU-AI-News-Autofill/raw/refs/heads/main/jbu-news-autofill.user.js)
 
+3. 크롬 확장 프로그램 - Tampermonkey 세부설정에
+사용자 스크립트 허용
+파일 URL에 대한 액세스 허용
+
 ---
 
 ## ⚙️ 사용 방법
